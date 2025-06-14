@@ -1,4 +1,4 @@
-# Displacement Sensing Research Chatbot 📏
+# Displacement Sensing Research Chatbot 
 
 A Streamlit-based chatbot that allows users to query research papers about displacement sensing and generate technical diagrams using.
 
